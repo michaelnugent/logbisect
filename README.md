@@ -22,11 +22,12 @@ as library:
         print(fh.readline().strip())
 
 example data:
-Apr  8 15:48:24 templar named[317]: client @0x7f0d98029298 10.3.0.106#43556 (pubads.g.doubleclick.net): query 'pubads.g.doubleclick.net/A/IN' denied 
-Apr  8 15:48:24 templar named[317]: client @0x7f0d8c06e4d8 10.3.0.106#61766 (pubads.g.doubleclick.net): query 'pubads.g.doubleclick.net/A/IN' denied 
-Apr  8 15:48:24 templar named[317]: client @0x7f0d94047e88 10.3.0.106#49621 (pubads.g.doubleclick.net): query 'pubads.g.doubleclick.net/A/IN' denied 
-Apr  8 15:48:24 templar named[317]: client @0x7f0d98029298 10.3.0.106#54996 (pubads.g.doubleclick.net): query 'pubads.g.doubleclick.net/A/IN' denied 
-Apr  8 15:48:24 templar named[317]: client @0x7f0d98029298 10.3.0.106#62061 (pubads.g.doubleclick.net): query 'pubads.g.doubleclick.net/A/IN' denied 
-Apr  8 15:48:24 templar named[317]: client @0x7f0d8c06e4d8 10.3.0.106#60412 (pubads.g.doubleclick.net): query 'pubads.g.doubleclick.net/A/IN' denied 
-Apr  8 15:48:24 templar named[317]: client @0x7f0d94047e88 10.3.0.106#46876 (pubads.g.doubleclick.net): query 'pubads.g.doubleclick.net/A/IN' denied 
-Apr  8 15:48:29 templar named[317]: client @0x7f0d900382c8 10.3.0.106#36796 (pubads.g.doubleclick.net): query 'pubads.g.doubleclick.net/A/IN' denied
+
+    Apr  8 15:48:24 templar named[317]: client @0x7f0d98029298 10.3.0.106#43556 (pubads.g.doubleclick.net): query 'pubads.g.doubleclick.net/A/IN' denied 
+    Apr  8 15:48:24 templar named[317]: client @0x7f0d8c06e4d8 10.3.0.106#61766 (pubads.g.doubleclick.net): query 'pubads.g.doubleclick.net/A/IN' denied 
+    Apr  8 15:48:24 templar named[317]: client @0x7f0d94047e88 10.3.0.106#49621 (pubads.g.doubleclick.net): query 'pubads.g.doubleclick.net/A/IN' denied 
+    Apr  8 15:48:24 templar named[317]: client @0x7f0d98029298 10.3.0.106#54996 (pubads.g.doubleclick.net): query 'pubads.g.doubleclick.net/A/IN' denied 
+    Apr  8 15:48:24 templar named[317]: client @0x7f0d98029298 10.3.0.106#62061 (pubads.g.doubleclick.net): query 'pubads.g.doubleclick.net/A/IN' denied 
+    Apr  8 15:48:24 templar named[317]: client @0x7f0d8c06e4d8 10.3.0.106#60412 (pubads.g.doubleclick.net): query 'pubads.g.doubleclick.net/A/IN' denied 
+    Apr  8 15:48:24 templar named[317]: client @0x7f0d94047e88 10.3.0.106#46876 (pubads.g.doubleclick.net): query 'pubads.g.doubleclick.net/A/IN' denied 
+    Apr  8 15:48:29 templar named[317]: client @0x7f0d900382c8 10.3.0.106#36796 (pubads.g.doubleclick.net): query 'pubads.g.doubleclick.net/A/IN' denied
